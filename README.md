@@ -76,6 +76,8 @@ Seed default data...                                                      [Done]
 Ruby China Successfully Installed.
 
 $ rails s
+$ Please start redis and elasticsearch(elasticsearch -d  && redis-server
+
 ```
 
 ## Testing
